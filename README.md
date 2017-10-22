@@ -8,4 +8,4 @@ You are looking for a small Java runtime optimized for use with Gradle?
   - `java.logging`
   - `java.management`
 
-Image size: 107.1 MB
+Image size: 106.7 MB
